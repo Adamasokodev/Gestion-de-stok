@@ -1,0 +1,31 @@
+﻿# Environnement virtuel
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Fichiers temporaires
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# Configurations locales
+.env
+*.env
+
+# Dossier d'exécution Django
+staticfiles/
+media/
+
+# IDE et outils
+.vscode/
+.idea/
+*.code-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
